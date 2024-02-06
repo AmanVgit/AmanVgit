@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanvgit&label=Profile%20views&color=0e75b6&style=flat" alt="amanvgit" /> </p>
 
-- 🔭 I’m currently working on **Notion clone**
+- 🔭 I’m currently working on **Notion clone Project**
 
 - 🌱 I’m currently learning **Next.js**
 
